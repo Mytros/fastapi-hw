@@ -21,7 +21,7 @@ whether it will rain tomorrow (`RainTomorrow = Yes/No`) based on daily weather o
 - **FastAPI** — REST API for model inference
 - **Uvicorn** — ASGI server
 - **Docker** — containerization and deployment
-- (Optionally) **Render** — public hosting of the container
+- **Render** — public hosting of the container
 
 ## API
 
